@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @faheemraina
-- 👀 I’m interested in SoftwareDesign|Development|Cloud|AIML|AWS
+- 👀 I’m interested in SoftwareDesign|Development|Cloud|Scalable Systems|AIML|AWS
 - 🌱 I’m proficient in Java/Python and currently learning MachineLearning and AWS
 - 💞️ I’m looking to collaborate on Java/Python Libs
 - 📫 Reach me via mail: FaheemRaina@gmail.com | https://www.linkedin.com/in/faheemraina/
