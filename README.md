@@ -1,9 +1,10 @@
 # Faheem Raina.
 
-# Software engineering Leader- focused on backend systems, data pipelines, and cloud infrastructure.
-Mostly working with Python and Java on AWS.
+## Software engineering Leader:
+Focused on backend systems, data pipelines, and cloud infrastructure.
+Java, Python and infra on AWS.
 
-Interests include distributed systems, stream processing, and scalable data architectures.
+Interests include distributed systems, stream processing, Data warehouses and scalable data architectures.
 
 Contact:
 - Email: faheemraina@gmail.com
