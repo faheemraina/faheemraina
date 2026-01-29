@@ -9,3 +9,4 @@ Interests include distributed systems, stream processing, Data warehouses and sc
 Contact:
 - Email: faheemraina@gmail.com
 - LinkedIn: https://www.linkedin.com/in/faheemraina/
+- Medium: https://medium.com/@faheemraina
